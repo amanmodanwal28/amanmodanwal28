@@ -14,7 +14,7 @@ Hey there! I'm Aman Modanwal, a seasoned full-stack web developer with a solid 1
   Thanks for visiting my profile
 </h1>
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://github.com/amanmodanwal28/amanmodanwal28/blob/main/Aman%20GIF.gif"> 
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://github.com/amanmodanwal28/amanmodanwal28/blob/main/aman2GIF.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanmodanwal28&label=Profile%20views&color=0e75b6&style=flat" alt="amanmodanwal28" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
