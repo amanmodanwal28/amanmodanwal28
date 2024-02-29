@@ -54,10 +54,11 @@ Hey there! I'm Aman Modanwal, a seasoned full-stack web developer with a solid 1
 <br/>
 <hr/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amanmodanwal28/amanmodanwal28/output/github-contribution-grid-snake.svg" />
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
