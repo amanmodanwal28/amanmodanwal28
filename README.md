@@ -1,16 +1,84 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amanmodanwal28.amanmodanwal28" />
 
-<!--
-**amanmodanwal28/amanmodanwal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Modanwal!💻;" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">A passionate software developer from Greater Noida</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+Hey there! I'm Aman Modanwal, a seasoned full-stack web developer with a solid 1 year 2 months of experience at PPS International Company in Greater Noida. I have a strong background in  JavaScript, Typescript and React, and I'm always looking to learn and try new technologies. I've been actively involved in software development projects, contributing to coding, testing, and debugging efforts. My role includes collaborating with senior engineers to enhance software functionality and ensure adherence to project timelines. Additionally, I've played a pivotal part in documenting technical specifications and participating in team meetings to foster effective communication and project coordination. I actively contribute to open source projects and participate in meetups and hackathons to stay connected with the developer community. You can find some of my noteworthy contributions on GitHub, and I encourage you to visit my website for a deeper dive into my projects and experiences.
+
+<h1 align="center">
+  Thanks for visiting my profile
+</h1>
+
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://github.com/amanmodanwal28/amanmodanwal28/blob/main/Aman%20GIF.gif"> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanmodanwal28&label=Profile%20views&color=0e75b6&style=flat" alt="amanmodanwal28" /> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **A Software Project**
+ 
+ 🌱 I’m currently learning **React, Typescript**
+
+💬 Ask me about **Node.js, React, Kotlin... or anything [here](itisaman28@gmail.com)**
+
+⚡ Fun fact **I often enjoy solving puzzles and logic challenges for fun.**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,kotlin,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,nextjs,mysql,react" /><br>
+</div>
+
+<br/>
+<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+<br/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align="center">
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=amanmodanwal28&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanmodanwal28&theme=react" alt="amanmodanwal28" /></p>
+</div>
+
+<br/>
+
+<br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
