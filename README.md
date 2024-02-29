@@ -42,44 +42,40 @@ Hey there! I'm Aman Modanwal, a seasoned full-stack web developer with a solid 1
   </a>
 </div>
 
- <hr/>
- 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,kotlin,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,nextjs,mysql,react" /><br>
 </div>
+<br/>
 
 <br/>
-<hr/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-<br/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=amanmodanwal28&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanmodanwal28&theme=react" alt="amanmodanwal28" /></p>
+    </div>
+<div align="center">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanmodanwal28&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
+</div>
+</div>
 </div>
 
 <br/>
 
 <br/>
 
-<hr/>
+<br/>
 
 <br/>
 
 <div align="center">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
