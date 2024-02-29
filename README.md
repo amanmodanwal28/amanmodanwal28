@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amanmodanwal28.amanmodanwal28" />
 
 <h1 align="center">
-    <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <a href="https://www.linkedin.com/in/amanmodanwal28/" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Modanwal!💻;" />
     <a/>    
 </h1>
@@ -36,7 +36,7 @@ Hey there! I'm Aman Modanwal, a seasoned full-stack web developer with a solid 1
   <a href="itisamanmodanwal28@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/amanmodanwal28/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/amanmodanwal28" target="_blank">
