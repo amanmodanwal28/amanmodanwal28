@@ -26,7 +26,7 @@ Hey there! I'm Aman Modanwal, a seasoned full-stack web developer with a solid 1
  
  🌱 I’m currently learning **React, Typescript**
 
-💬 Ask me about **Node.js, React, Kotlin... or anything [here](itisaman28@gmail.com)**
+💬 Ask me about **Node.js, React, Kotlin... or anything here**itisaman28@gmail.com**
 
 ⚡ Fun fact **I often enjoy solving puzzles and logic challenges for fun.**
 
