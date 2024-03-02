@@ -31,6 +31,8 @@ Hey there! I'm Aman Modanwal, a seasoned full-stack web developer with a solid 1
 ⚡ Fun fact **I often enjoy solving puzzles and logic challenges for fun.**
 
  </div>
+
+ <div align="center">
   <a href="https://www.linkedin.com/in/amanmodanwal28/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
