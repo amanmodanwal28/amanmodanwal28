@@ -33,7 +33,7 @@ Hey there! I'm Aman Modanwal, a seasoned full-stack web developer with a solid 1
  </div>
  
 <div align="center"> 
-  <a href="itisamanm28@gmail.com">
+  <a href="itisaman28@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/amanmodanwal28/" target="_blank">
