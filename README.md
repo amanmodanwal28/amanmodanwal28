@@ -88,7 +88,7 @@ Hey there! I'm Aman Modanwal, a seasoned full-stack web developer with a solid 1
 <h2 align="center">⚡ Stats ⚡</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=amanmodanwal28&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanmodanwal28&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" alt="readme stats" />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanmodanwal28&theme=react" alt="amanmodanwal28" /></p>
     </div>
 <div align="center">
