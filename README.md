@@ -97,10 +97,6 @@ Hello, I am Aman Modanwal, a seasoned full-stack web developer with experience a
 
 <br/>
 
-<h1 align="center">
-  Thanks for visiting my profile
-</h1>
-
 <br/>
 
 <br/>
@@ -110,3 +106,7 @@ Hello, I am Aman Modanwal, a seasoned full-stack web developer with experience a
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+<h1 align="center">
+  Thanks for visiting my profile
+</h1>
