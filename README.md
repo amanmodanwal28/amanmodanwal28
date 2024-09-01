@@ -10,11 +10,7 @@
 
 <br/>
 
-Hey there! I'm Aman Modanwal, a seasoned full-stack web developer with a solid 1 year 2 months of experience at PPS International Company in Greater Noida. I have a strong background in  JavaScript, Typescript and React, and I'm always looking to learn and try new technologies. I've been actively involved in software development projects, contributing to coding, testing, and debugging efforts. My role includes collaborating with senior engineers to enhance software functionality and ensure adherence to project timelines. Additionally, I've played a pivotal part in documenting technical specifications and participating in team meetings to foster effective communication and project coordination. I actively contribute to open source projects and participate in meetups and hackathons to stay connected with the developer community. You can find some of my noteworthy contributions on GitHub, and I encourage you to visit my website for a deeper dive into my projects and experiences.
-
-<h1 align="center">
-  Thanks for visiting my profile
-</h1>
+Hello, I am Aman Modanwal, a seasoned full-stack web developer with experience at PT Communication in Greater Noida from December 2022 to the present. I specialize in JavaScript, TypeScript, and React, contributing to software development, coding, testing, and debugging. I am actively involved in open source projects, hackathons, and meetups, with my work showcased on GitHub and my personal website.
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://github.com/amanmodanwal28/amanmodanwal28/blob/main/aman2GIF.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanmodanwal28&label=Profile%20views&color=0e75b6&style=flat" alt="amanmodanwal28" /> </p>
@@ -100,6 +96,10 @@ Hey there! I'm Aman Modanwal, a seasoned full-stack web developer with a solid 1
 <br/>
 
 <br/>
+
+<h1 align="center">
+  Thanks for visiting my profile
+</h1>
 
 <br/>
 
