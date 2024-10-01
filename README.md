@@ -85,6 +85,8 @@ Hello, I am Aman Modanwal, a seasoned full-stack web developer with experience a
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">⚡ Stats </h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin: auto;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanmodanwal28&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     <img height=165px; src="https://github-readme-stats.vercel.app/api?username=amanmodanwal28&show_icons=true&locale=en" alt="User Stats" />
@@ -92,11 +94,15 @@ Hello, I am Aman Modanwal, a seasoned full-stack web developer with experience a
 </div>
 </div>
 </div>
+<br/>
+<br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 <br/>
 
 <br/>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amanmodanwal28.amanmodanwal28" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=amanmodanwal28.amanmodanwal28" />
 <br/>
 
 
