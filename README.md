@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amanmodanwal28.amanmodanwal28" />
-
 <h1 align="center">
     <a href="https://www.linkedin.com/in/amanmodanwal28/" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Modanwal!💻;" />
@@ -12,21 +10,22 @@
 
 Hello, I am Aman Modanwal, a seasoned full-stack web developer with experience at PT Communication in Greater Noida from December 2022 to the present. I specialize in JavaScript, TypeScript, and React, contributing to software development, coding, testing, and debugging. I am actively involved in open source projects, hackathons, and meetups, with my work showcased on GitHub and my personal website.
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://github.com/amanmodanwal28/amanmodanwal28/blob/main/aman2GIF.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanmodanwal28&label=Profile%20views&color=0e75b6&style=flat" alt="amanmodanwal28" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
- 
- 🔭 I’m currently working on **A Software Project**
- 
- 🌱 I’m currently learning **React, Typescript**
 
-💬 Ask me about **Node.js, React, Kotlin... or anything here**itisaman28@gmail.com**
 
-⚡ Fun fact **I often enjoy solving puzzles and logic challenges for fun.**
+<img alt="Coding" width="40%" align="right" 
+ src="https://github.com/amanmodanwal28/amanmodanwal28/blob/main/aman2GIF.gif" />
 
- </div>
+
+
+- 🔭 I’m currently working on **A Software Project**  
+- 🌱 I’m currently learning **React, Typescript**  
+- 💬 Ask me about **Node.js, React, Kotlin 
+- 📫 How to reach me **[itisaman28@gmail.com](mailto:itisaman28@gmail.com)**  
+- ⚡ Fun fact: **I often enjoy solving puzzles and logic challenges for fun.**
+
 
  <div align="center">
   <a href="https://www.linkedin.com/in/amanmodanwal28/" target="_blank">
@@ -96,9 +95,7 @@ Hello, I am Aman Modanwal, a seasoned full-stack web developer with experience a
 <br/>
 
 <br/>
-
-<br/>
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amanmodanwal28.amanmodanwal28" />
 <br/>
 
 <div align="center">
