@@ -89,7 +89,7 @@ Hello, I am Aman Modanwal, a seasoned full-stack web developer with experience a
 <br/>
 <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin: auto;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=amanmodanwal28&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    <img height=165px; src="https://github-readme-stats.vercel.app/api?username=amanmodanwal28&show_icons=true&locale=en" alt="User Stats" />
+    <img height=165px; src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanmodanwal28&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" alt="User Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanmodanwal28&" alt="Streak Stats" />
 </div>
 </div>
