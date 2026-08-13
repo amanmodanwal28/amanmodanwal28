@@ -6,15 +6,22 @@
 
 ## ✨ About Me
 
-Hello, I'm **Aman Modanwal** — Assistant Software Engineer at **PPS International Pvt Ltd** (Greater Noida) since December 2022.
+**Aman Modanwal** — Full-Stack Developer with **4+ years** of experience shipping production software at **PPS International Pvt Ltd**, Greater Noida.
 
-I build production full-stack web & desktop applications using **React.js, Node.js, Express, TypeScript, Electron, and MySQL**. My work includes real-time systems (WebSocket/Socket.IO), NVR platforms with 64+ concurrent camera streams, and secure content deployment tools for railway infrastructure.
+I design and build end-to-end systems: web apps, desktop tools, and real-time platforms using **React.js, Node.js, Express, TypeScript, Electron, and MySQL**. Day-to-day work includes:
 
-- 🔭 Currently building production systems for railway surveillance & onboard infotainment  
-- 🌱 Strong in React, TypeScript, Node.js, Electron, ONVIF/RTSP, Linux  
-- 💬 Ask me about **React, Node.js, real-time APIs, Electron**  
-- 📫 Reach me: **[itisaman28@gmail.com](mailto:itisaman28@gmail.com)**  
-- 🌐 Portfolio: **[amanmodanwal28.github.io](https://amanmodanwal28.github.io/)**  
+- High-concurrency **NVR / video monitoring** (64+ live camera streams, ONVIF, RTSP)
+- **REST APIs** with JWT auth, caching, and ~30% faster response times
+- **WebSocket / Socket.IO** live dashboards for operations teams
+- **Electron** tools for secure multi-device content deployment (up to ~10GB packages)
+
+I care about clean architecture, measurable performance gains, and shipping on time across Agile sprints.
+
+- 🔭 Building railway surveillance & onboard infotainment systems  
+- 💪 Stack: React · TypeScript · Node · Electron · MySQL · Linux  
+- 💬 Ask me about full-stack apps, real-time APIs, or production debugging  
+- 📫 **[itisaman28@gmail.com](mailto:itisaman28@gmail.com)**  
+- 🌐 **[Portfolio](https://amanmodanwal28.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/amanmodanwal28/)**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
